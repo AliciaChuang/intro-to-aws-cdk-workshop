@@ -17,6 +17,9 @@ export class CdkWorkshopStack extends cdk.Stack {
 
      });
      */
+    
+    //Add a hit counter to our stack
+    //TO DO #11
 
     // defines an API Gateway REST API resource backed by our "hello" function.
     /*
@@ -25,9 +28,6 @@ export class CdkWorkshopStack extends cdk.Stack {
       //TO DO #12 Update function
     });
     */
-
-    //Add a hit counter to our stack
-    //TO DO #11
 
     //TO DO #15 Table Viewer
   }
