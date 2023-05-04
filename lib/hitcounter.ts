@@ -25,11 +25,11 @@ export interface HitCounterProps {
 //     /*
 //     const table = new dynamodb.Table(this, "Hits", {
 //       partitionKey: {
-//         name: "path",
+//         name: //TO DO #10,
 //         type: dynamodb.AttributeType.STRING
 //       }
 //     });
-//     this.table = table;
+//     //TO DO #16
 
 //     this.handler = new lambda.Function(this, 'HitCounterHandler', {
 //       runtime: lambda.Runtime.NODEJS_14_X,
